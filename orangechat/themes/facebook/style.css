@@ -1,0 +1,86 @@
+/* Chatbar */
+.chat_bar {
+	background: #eeeeee;
+}
+
+.chat_bar_active {
+	
+}
+
+#chat_bar {
+	border: #ccc 1px solid;
+}
+
+#chat_bar_content {
+	background: url("chat.gif") no-repeat;
+	background-position: 2px 5px;
+}
+
+.chatbox_header {
+	background: #4d68a2;
+}
+
+/* Chat box */
+.chatboxhead {
+	color: #ffffff;
+	background-color: #4d68a2;
+}
+
+.chatboxblink {
+	background-color: #6d84b4;
+}
+
+.chatboxcontent {
+	background: white;
+}
+
+.chatboxinput {
+	background-color: #ffffff;
+	border-left:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+	border-bottom:1px solid #cccccc;
+}
+
+.chatboxtextarea {
+	border: none;
+}
+
+.chatboxtextareaselected {
+	outline: 0;
+}
+
+.chatboxmessage {
+
+}
+
+.chatboxmessagefrom {
+	font-weight: bold;
+}
+
+.chatboxmessagecontent {
+
+}
+
+.chatboxoptions {
+	font-weight: bold;
+}
+
+.chatboxtitle {
+	font-weight: bold;
+}
+
+#chat_friends_list ul {
+
+}
+
+#chat_friends_list ul li {
+	width: 100%;
+}
+
+#chat_friends_list ul li:hover {
+	background: #dfe3ed;
+}
+
+#chat_friends_list a {
+	color: black;
+}
